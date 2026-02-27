@@ -1,0 +1,8 @@
+# Codeium AI extension
+.codeium/
+
+# Common editor / OS ignores
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,14 @@
+{
+  "identity": {
+    "name": "Sam",
+    "goal": "to build meaningful systems",
+    "habit": "I usually procrastinate at night",
+    "preference": "I prefer calm responses",
+    "thinking_style": "I struggle with overthinking"
+  },
+  "boundaries": {
+    "no_unsolicited_advice": true,
+    "no_forced_motivation": true,
+    "ask_before_reflection": true
+  }
+}
