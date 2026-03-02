@@ -1,16 +1,45 @@
 {
   "tasks": [
     {
-      "what": "remind me to study",
-      "when": "9:00 PM",
+      "what": "study",
+      "when": "2026-03-03 09:00 PM",
       "status": "pending",
-      "created_at": "2026-02-26T19:29:08.186675"
+      "created_at": "2026-03-02T21:20:18.601909",
+      "due_at": "2026-03-03T21:00:00"
     },
     {
-      "what": "remind me to study",
-      "when": "at 9",
+      "what": "call mom",
+      "when": "at 5pm",
       "status": "pending",
-      "created_at": "2026-02-27T19:27:01.920226"
+      "created_at": "2026-03-02T21:20:34.374375"
+    },
+    {
+      "what": "study",
+      "when": "2026-03-02 09:54 PM",
+      "status": "pending",
+      "created_at": "2026-03-02T21:24:30.915260",
+      "due_at": "2026-03-02T21:54:30.914708"
+    },
+    {
+      "what": "test reminders",
+      "when": "2026-03-02 09:31 PM",
+      "status": "pending",
+      "created_at": "2026-03-02T21:30:30.452801",
+      "due_at": "2026-03-02T21:31:30.452340"
+    },
+    {
+      "what": "test followup",
+      "when": "2026-03-02 10:05 PM",
+      "status": "pending",
+      "created_at": "2026-03-02T21:35:39.352323",
+      "due_at": "2026-03-02T22:05:39.351868"
+    },
+    {
+      "what": "test followup",
+      "when": "2026-03-02 10:35 PM",
+      "status": "pending",
+      "created_at": "2026-03-02T21:35:53.179913",
+      "due_at": "2026-03-02T22:35:53.201673"
     }
   ]
 }

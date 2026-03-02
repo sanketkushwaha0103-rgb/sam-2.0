@@ -1,7 +1,7 @@
 {
   "tone": "calm",
   "verbosity": "low",
-  "default_state": "listening",
+  "default_state": "silent",
   "interruptions": false,
   "confirmation_style": "soft",
   "reflection_style": "gentle"
